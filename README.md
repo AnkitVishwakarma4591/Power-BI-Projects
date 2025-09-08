@@ -106,6 +106,34 @@ This Power BI dashboard provides a **comprehensive analysis of COVID-19 cases, d
 
 ---
 
+## **5. Super Store Sales Dashboard Analysis**  
+
+### **Overview**  
+This Power BI dashboard provides a comprehensive analysis of **Super Store sales performance**, covering revenue, profits, order quantities, and customer purchasing behavior.  
+It highlights **regional trends, shipping preferences, payment modes, and category-wise sales**, enabling businesses to track profitability and optimize supply chain decisions.  
+
+### **Key Insights**  
+🔹 **Total Sales:** 2M with **175K Profits** and **22K Quantity Sold**.  
+🔹 **Average Delivery:** 10 Days across all orders.  
+🔹 **Sales by Segment:** Consumer (48%) leads, followed by Corporate (33%) and Home Office (19%).  
+🔹 **Payment Modes:** COD (43%) is the most used, followed by Online (35%) and Cards (22%).  
+🔹 **Regional Insights:** West (33%) and East (29%) generate the highest sales.  
+🔹 **Shipping Modes:** Standard Class contributes the maximum sales (0.91M).  
+🔹 **Top Categories:** Office Supplies (0.64M), Technology (0.47M), and Furniture (0.45M).  
+🔹 **Top Sub-Categories:** Phones (0.20M), Chairs (0.18M), and Binders (0.17M).  
+🔹 **Year-over-Year Trends:** Sales and profits show steady growth with notable peaks in Q4 months.  
+
+### **Features**  
+✅ **Segment-wise performance tracking** (Consumer, Corporate, Home Office).  
+✅ **Regional and State-level insights** with interactive map visualization.  
+✅ **Category & Subcategory breakdown** to identify high-demand products.  
+✅ **YoY Trends** in monthly sales and profits.  
+✅ **Sales by Payment & Ship Modes** for logistics and operations optimization.  
+
+🔗 **View Dashboard:** [Super Store Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmZhZGNiMTgtMjcwNy00MzUxLWFiOWMtZGJhZmRlYzMzODgzIiwidCI6IjU3ZjljNGQzLWIyNGMtNGZhNy04YzQzLWI4N2I5Mjg0NTQ0MSJ9)  
+
+---
+
 ## **Conclusion**
 This repository highlights how **Power BI can transform raw datasets into meaningful insights** through interactive dashboards. Each project demonstrates strong **data storytelling, business intelligence, and visualization skills**.  
 
