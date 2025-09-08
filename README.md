@@ -50,7 +50,34 @@ This Power BI dashboard analyzes **Uber bookings, cancellations, revenue, and cu
 
 ---
 
-## **3. Country-Wise COVID Dashboard Analysis**
+## **3. Credit Card Dashboard Analysis**   
+
+### **Overview**  
+This Power BI project provides an in-depth analysis of **credit card customer behavior and transactions**, focusing on revenue, interest, spending categories, and demographic insights.  
+It enables businesses to track **customer segments, transaction modes, and income groups** to drive better decision-making and improve profitability.  
+
+### **Key Insights**  
+🔹 **Revenue:** 23M with **3M Total Interest Earned**.  
+🔹 **Customer Income:** 576M with an average **Customer Satisfaction Score (CSS) of 3.19**.  
+🔹 **Top Customer Jobs:** Businessmen (71.9M), White-collar (44.5M), and Self-employed (36.3M).  
+🔹 **Demographics:** Majority of revenue generated from **40–50 age group** (9.9M).  
+🔹 **Geographic Insights:** Top states are **CA (5.4M), NY (5.4M), and TX (5.3M)**.  
+🔹 **Spending Behavior:** Highest expenditure on **Bills (5.7M), Fuel (4.2M), and Entertainment (3.9M)**.  
+🔹 **Transaction Mode:** **Swipe (15M)** dominates compared to Chip (7M) and Online (2M).  
+🔹 **Card Categories:** Blue Cards generate the maximum revenue (20M), followed by Silver (2M).  
+
+### **Features**  
+✅ **Customer Demographics Analysis** – Age group, gender, marital status, dependents, income, and education level.  
+✅ **Revenue & Transaction Analysis** – By card type, job profile, and expenditure category.  
+✅ **Quarterly Trends** – Revenue and transaction volumes compared across Q1–Q4.  
+✅ **Geographic Insights** – Revenue contribution from top 5 U.S. states.  
+✅ **Spending Behavior** – Deep dive into usage types (Swipe, Online, Chip).  
+
+🔗 **View Dashboard:** [Credit Card Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzY3ZTFmMDctZTY2Mi00OTk3LWE5ODMtMTA3ZTNlZTg4NTg4IiwidCI6IjU3ZjljNGQzLWIyNGMtNGZhNy04YzQzLWI4N2I5Mjg0NTQ0MSJ9)  
+
+---
+
+## **4. Country-Wise COVID Dashboard Analysis**
 
 ### **Overview**
 This Power BI dashboard provides a **comprehensive analysis of COVID-19 cases, deaths, recoveries, and regional impact across countries and WHO regions**. It helps track the spread, recovery rates, and mortality distribution globally, giving insights into which regions and countries are most affected.
