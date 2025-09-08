@@ -4,7 +4,7 @@ This repository showcases a collection of **Power BI dashboards** designed to an
 
 ---
 
-## **1. 1Blinkit Dashboard Analysis**
+## **1. Blinkit Dashboard Analysis**
 
 ### **Overview**
 This Power BI dashboard analyzes **Blinkit’s sales performance, outlet distribution, product categories, and customer ratings**, providing valuable insights into the retail industry. It focuses on sales growth, outlet size/location contribution, fat content impact, and product-type performance to help in strategic decision-making.
@@ -26,6 +26,31 @@ This Power BI dashboard analyzes **Blinkit’s sales performance, outlet distrib
 ✅ **Outlet Type Comparison** – Grocery stores and supermarkets analyzed for sales, ratings, and item visibility.  
 
 🔗 **View Dashboard:** [Blinkit Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzZiNjE4YzItYzYyMy00ZDgxLTg5YTQtMTFlYzE3ZjI4NmI0IiwidCI6IjU3ZjljNGQzLWIyNGMtNGZhNy04YzQzLWI4N2I5Mjg0NTQ0MSJ9)
+
+---
+
+## **2. Uber Dashboard Analysis**  
+### **Overview**  
+This Power BI dashboard analyzes **Uber bookings, cancellations, revenue, and customer behavior**, providing actionable insights into the ride-hailing industry. It focuses on performance tracking, customer preferences, and payment methods to optimize decision-making.  
+
+### **Key Insights**  
+🔹 **Total Bookings:** 139.91K with 65.96% completed successfully.  
+🔹 **Vehicle Type Analysis:** Auto (11.73M) and eBike/Bike (10.44M) recorded the highest bookings.  
+🔹 **Revenue Sources:** UPI contributed the highest revenue (>20M), followed by cash, Uber Wallet, and cards.  
+🔹 **Customer Insights:** Top 5 customers showed strong loyalty with high booking values.  
+🔹 **Seasonal Trends:** Booking peaks observed in March, July, and October.  
+
+### **Features**  
+✅ **Booking status breakdown** (completed, cancelled by driver, customer, or no driver available).  
+✅ **Category-wise analysis** across vehicle types and distances.  
+✅ **Revenue visualization** by payment methods and customer contribution.  
+✅ **Ride distance trends** to study demand consistency across days.  
+
+🔗 **View Dashboard:** [Uber Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTU4NWVlODMtZDZmOS00ZGFjLTg2MjctMmFkYTMwMzA2MGYxIiwidCI6IjZhZGJkNDg0LWRkYWMtNDIxZi1hYjRiLWZmMmUwYzE2MGI2YyJ9)  
+
+---
+
+
 
 ---
 
