@@ -134,6 +134,33 @@ It highlights **regional trends, shipping preferences, payment modes, and catego
 
 ---
 
+## **6. Madhav Ecommerce Sales Dashboard Analysis**  
+
+### **Overview**  
+This Power BI dashboard provides a detailed analysis of **E-commerce sales performance**, focusing on revenue, profits, order quantities, and customer insights.  
+It helps in tracking **state-wise sales, category contribution, payment preferences, and profit trends** to enhance business strategies and improve customer experience.  
+
+### **Key Insights**  
+🔹 **Total Sales Amount:** 438K with **37K Profit** and **5615 Quantity Sold**.  
+🔹 **Average Order Value (AOV):** 121K.  
+🔹 **Top States by Sales:** Maharashtra and Madhya Pradesh contribute the highest revenue.  
+🔹 **Category Performance:** Clothing dominates with **63% sales quantity**, followed by Electronics (21%) and Furniture (17%).  
+🔹 **Payment Modes:** COD (44%) is the most preferred, followed by UPI (21%), Debit (13%), Credit (12%), and EMI (10%).  
+🔹 **Customer Insights:** Top customers include Harivansh, Madhav, Madan Mohan, and Shiva.  
+🔹 **Profit by Month:** Profits peak in **March, April, October, and November**, while losses observed in **July and December**.  
+🔹 **Sub-Category Profits:** Printers and Bookcases generate the highest profits, while Saree, Accessories, and Tables contribute moderately.  
+
+### **Features**  
+✅ **State-wise Sales Performance** for geographic insights.  
+✅ **Category and Sub-Category Breakdown** for detailed contribution analysis.  
+✅ **Customer-wise Revenue** to identify top buyers.  
+✅ **Payment Mode Analysis** to understand customer preferences.  
+✅ **Monthly Profit Trends** to track seasonality and performance dips.  
+
+🔗 **View Dashboard:** [Madhav Ecommerce Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTgxYzZiNTctZDE2Yy00OTdmLWIwNjctOWVjM2QxZWIwM2MxIiwidCI6IjZhZGJkNDg0LWRkYWMtNDIxZi1hYjRiLWZmMmUwYzE2MGI2YyJ9)  
+
+---
+
 ## **Conclusion**
 This repository highlights how **Power BI can transform raw datasets into meaningful insights** through interactive dashboards. Each project demonstrates strong **data storytelling, business intelligence, and visualization skills**.  
 
