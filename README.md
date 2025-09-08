@@ -50,7 +50,32 @@ This Power BI dashboard analyzes **Uber bookings, cancellations, revenue, and cu
 
 ---
 
+## **3. Country-Wise COVID Dashboard Analysis**
 
+### **Overview**
+This Power BI dashboard provides a **comprehensive analysis of COVID-19 cases, deaths, recoveries, and regional impact across countries and WHO regions**. It helps track the spread, recovery rates, and mortality distribution globally, giving insights into which regions and countries are most affected.
+
+### **Key Insights**
+🔹 **New Cases:** 229K reported globally.  
+🔹 **Total Deaths:** 654K, with **109K average deaths** reported.  
+🔹 **Recoveries:** Over **9M recoveries**, highlighting strong resilience in certain countries.  
+🔹 **Regional Impact:**  
+- **Active Cases:** 63% concentrated in one major WHO region.  
+- **Deaths by WHO Region:** Highest in **Americas and Europe**.  
+- **New Cases:** South-East Asia (57%) leading in new case counts.  
+🔹 **Country Impact:**  
+- **Highest Deaths:** US, Brazil, and UK recorded the highest fatalities.  
+- **Recovery Leaders:** Brazil, US, and India led global recovery counts.  
+🔹 **Death & Recovery Trends:** Visual analysis shows significant variation in recovery-to-death ratios across regions like Italy, France, and Mexico.  
+
+### **Features**
+✅ **Global Overview:** Key KPIs for new cases, deaths, recoveries, and average deaths.  
+✅ **WHO Region Breakdown:** Active, new, and recovered cases analyzed by region.  
+✅ **Country-Level Analysis:** Top countries by deaths and recoveries.  
+✅ **Geospatial Mapping:** Deaths visualized on a world map for better regional understanding.  
+✅ **Trend Analysis:** Death & recovery patterns tracked across multiple countries.  
+
+🔗 **View Dashboard:** [COVID Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWYxOGEzMTMtZGE5Ny00MzNkLThlOWMtMzk4MTBmZGVkMWM0IiwidCI6IjU3ZjljNGQzLWIyNGMtNGZhNy04YzQzLWI4N2I5Mjg0NTQ0MSJ9)
 
 ---
 
